@@ -1,0 +1,6 @@
+# Editors
+.DS_Store
+
+# Build directory
+out/
+*.out
